@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Siddharth Mishra</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate self-taught frontend web developer and a upcoming software engineer from India. I am self learning Data Structures and Algorithms and developing my problem solving skills and logic building by solving many questions on online competitive platforms.I am enthuastic about open-source and want to contribute in open-source soceity.
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sidmmish&label=Profile%20views&color=0e75b6&style=flat" alt="sidmmish" /> </p>
 
