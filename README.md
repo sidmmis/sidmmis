@@ -7,9 +7,16 @@
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=sidmmish" alt="GitHub Profile Trophy" />
+    <img src="https://github-profile-trophy.vercel.app/?username=sidmmis" alt="GitHub Profile Trophy" />
   </a>
 </p>
+
+<p align="left">
+  <a href="https://x.com/Sidmmis?t=1R0TRQRz8JhMgIBWoRws5g&s=08" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/Sidmmis?logo=twitter&style=for-the-badge" alt="Twitter: @Sidmmis" />
+  </a>
+</p>
+
 
 
 - 🔭 I’m currently working on [MessEase](https://github.com/sidmmis/new-project)
