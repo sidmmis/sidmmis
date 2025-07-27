@@ -11,6 +11,8 @@
   </a>
 </p>
 
+
+
 <p align="left">
   <a href="https://x.com/Sidmmis?t=1R0TRQRz8JhMgIBWoRws5g&s=08" target="_blank">
     <img src="https://img.shields.io/twitter/follow/Sidmmis?logo=twitter&style=for-the-badge" alt="Twitter: @Sidmmis" />
@@ -29,7 +31,11 @@
   <a href="https://linkedin.com/in/siddharth-mishra-15230425a" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://www.leetcode.com/siddharth2026" target="blank">
+  <a href="https://x.com/Sidmmis?t=1R0TRQRz8JhMgIBWoRws5g&s=08" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Sidmmis" height="30" width="40" />
+</a>
+<a href="https://instagram.com/sidmmish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="suyashpatel2107" height="30" width="40" /></a>
+  <a href="https://www.leetcode.com/sidk2003" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
   </a>
 </p>
@@ -53,10 +59,7 @@
   </a> 
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/> 
-  </a> 
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/> 
-  </a> 
+  </a>  
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> 
   </a> 
