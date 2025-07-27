@@ -1,19 +1,20 @@
 <h1 align="center">Hi 👋, I'm Siddharth Mishra</h1>
-<h3 align="center">A passionate self-taught frontend web developer and an upcoming software engineer from India. I am self-learning Data Structures and Algorithms and developing my problem-solving skills and logic building by solving many questions on online competitive platforms. I am enthusiastic about open-source and want to contribute to the open-source society.</h3>
+<h3 align="center">A passionate self-taught web developer and an upcoming software engineer from India. I am self-learning Data Structures and Algorithms and developing my problem-solving skills and logic building by solving many questions on online competitive platforms. I am enthusiastic about open-source and want to contribute to the open-source society.</h3>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=sidmmish&label=Profile%20views&color=0e75b6&style=flat" alt="sidmmish" /> 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=sidmmish&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sidmmish" alt="sidmmish" />
-  </a> 
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
+    <img src="https://github-profile-trophy.vercel.app/?username=sidmmish" alt="GitHub Profile Trophy" />
+  </a>
 </p>
 
-- 🔭 I’m currently working on [DormEase](https://github.com/sidd5142/dormease-app)
+
+- 🔭 I’m currently working on [MessEase](https://github.com/sidmmis/new-project)
 - 🌱 I’m currently learning **backend (Node.js, MongoDB)**
-- 💬 Ask me about **HTML, CSS, JavaScript**
+- 💬 Ask me about **HTML, CSS, JavaScript,React**
 - 📫 How to reach me: **sidkmishra137@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
