@@ -87,10 +87,10 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/> 
   </a> 
-
-  <a href="https://cloudinary.com/" target="_blank" rel="noreferrer">
+ <a href="https://cloudinary.com/" target="_blank" rel="noreferrer">
   <img src="https://res.cloudinary.com/cloudinary-marketing/image/upload/v1667823664/solutions/logos/cloudinary_logo_for_white_bg.svg" alt="Cloudinary" width="40" height="40" />
 </a>
+
 
 </p>
 
